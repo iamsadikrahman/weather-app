@@ -1,6 +1,3 @@
-// function named getWeatherData that takes a location as a parameter and retrieves the current weather information using the API.
-
-// Display Info - temperature, description, humidity
 const getWeatherData = async () => {
   const searchButton = document.getElementById("search-btn");
   const inputText = document.getElementById("input-data");
